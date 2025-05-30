@@ -1,0 +1,11 @@
+body{
+    background-color: gold;
+    text-align: center;
+}
+p{
+    padding: 100px;
+    color: blue;
+    background-color: antiquewhite;
+    text-align: center;
+    display: block;
+}
